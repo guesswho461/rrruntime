@@ -1,0 +1,13 @@
+/*
+!/.gitignore
+!/README.md
+!/CHANGELOG.md
+!/LICENSE
+!/CMakeLists.txt
+!/.astylerc
+!/cmake
+!/common
+!/librrruntime
+!/rrruntimeMain
+!/rrruntimeExts
+!/tests
